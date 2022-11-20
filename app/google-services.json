@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499073655531",
+    "project_id": "firestorefaiqah",
+    "storage_bucket": "firestorefaiqah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499073655531:android:2d84a8d03c13337648d4ae",
+        "android_client_info": {
+          "package_name": "com.f55121112.firestorefaiqah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499073655531-e5dlqgbvtavhc6k0u1dkgj30cdjuocu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQC5K6hL91WiEQSdtRFhRztzsGPfGhQ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499073655531-e5dlqgbvtavhc6k0u1dkgj30cdjuocu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
